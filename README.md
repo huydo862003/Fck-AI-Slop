@@ -30,4 +30,7 @@ I will migrate these repos:
 - [X] [rna](https://github.com/huydo862003/rna)
   - Severity: Mostly none.
   - Already refactored.
+- [ ] Avatar
+  - Severity: 💀
+  - They are AI-generated. I just hired my cousin to redraw them.
 - All other repos are purely written by me.
