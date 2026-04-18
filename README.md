@@ -14,6 +14,8 @@ All repos with AI usages will be flagged as <img src="https://img.shields.io/bad
 
 All repos with no AI usages or with minimal AI usages but do not rely on any of the AI usages will be flagged as <img src="https://img.shields.io/badge/human%20slop-90EE90">.
 
+Commits that migrate from AI will have the format `[fix|feat|doc|chore](fck-AI-slop): commit message`.
+
 I will migrate these repos:
 - [ ] [Personal blog](https://github.com/huydo862003/huydo862003.github.io)
   - Severity: High.
