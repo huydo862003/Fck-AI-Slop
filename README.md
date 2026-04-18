@@ -1,5 +1,7 @@
 # Fck AI Slop
 
+<a href="https://github.com/huydo862003/Fck-AI-Slop#plan"><img src="https://img.shields.io/badge/human%20slop-90EE90"></a>
+
 Move away from AI codebase, entirely. I want to own authentic craft.
 
 ## Backstory
