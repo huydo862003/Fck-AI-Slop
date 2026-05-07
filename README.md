@@ -27,8 +27,9 @@ I will migrate these repos:
 - [ ] [dboxide](https://github.com/huydo862003/dboxide)
   - Severity: Mostly none.
   - Some typos or wordings are fixed by AI.
-- [ ] [sqlingo.js](https://github.com/huydo862003/sqlingo.js)
-  - Severity: High.
+- [X] [sqlingo.js](https://github.com/huydo862003/sqlingo.js)
+  - Severity: ~High~.
+    - Updated: Mostly none
   - Playground and homepage are purely AI-generated (although I did refactor them).
   - The core library architecture, design, folder structure are controlled by me. However, some low-level details & mechanical changes are AI-generated.
 - [X] [rna](https://github.com/huydo862003/rna)
