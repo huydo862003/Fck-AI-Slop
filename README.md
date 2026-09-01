@@ -12,19 +12,19 @@ I have to admit this. I have always wanted a personal page for customized knowle
 
 All repos with AI usages will be flagged as <img src="https://img.shields.io/badge/AI%20slop-FA003F">.
 
-All repos with no AI usages or with minimal AI usages but do not rely on any of the AI usages will be flagged as <img src="https://img.shields.io/badge/human%20slop-90EE90">.
+All repos with no AI usages or with some AI usages but can still function without AI usage will be flagged as <img src="https://img.shields.io/badge/human%20slop-90EE90">.
 
 Commits that migrate from AI will have the format `[fix|feat|doc|chore](fck-AI-slop): commit message`.
 
 I will migrate these repos:
-- [ ] [Personal blog](https://github.com/huydo862003/huydo862003.github.io)
+- [X] [Personal blog](https://github.com/huydo862003/huydo862003.github.io)
   - Severity: High.
   - Knowledge notes are not AI-generated.
   - Blog UI and local markdown editor are AI-generated, wholly (although I controlled the architecture of the markdown editor).
-- [ ] [Loupe](https://github.com/huydo862003/loupe)
+- [X] [Loupe](https://github.com/huydo862003/loupe)
   - Severity: Mostly none.
   - Some typos or wordings are fixed by AI.
-- [ ] [dboxide](https://github.com/huydo862003/dboxide)
+- [X] [dboxide](https://github.com/huydo862003/dboxide)
   - Severity: Mostly none.
   - Some typos or wordings are fixed by AI.
 - [X] [sqlingo.js](https://github.com/huydo862003/sqlingo.js)
